@@ -8,8 +8,8 @@ const InformationMessage = () => {
   return (
     <>
       <div>
-        For your security and security matters, you can run this tool
-        disconnected from the internet.
+        If you wish, for your security, you can run this tool disconnected from
+        the internet.
       </div>
     </>
   );
